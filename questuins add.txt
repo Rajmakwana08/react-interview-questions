@@ -1,0 +1,25 @@
+include this questions like 11. How does data flow in React?
+
+
+13. 
+
+
+
+
+
+
+Example:
+
+
+
+
+JSX	TSX
+Used in React with JavaScript	Used in React with TypeScript
+File extension: .jsx	File extension: .tsx
+No type checking	Has type checking (safer code)
+Easier for beginners	Better for large or complex apps
+🗣️ What to say in an interview:
+"JSX is used with JavaScript in React.
+TSX is used with TypeScript, which helps catch errors by checking types.
+TSX makes code safer and easier to manage in big projects."
+
