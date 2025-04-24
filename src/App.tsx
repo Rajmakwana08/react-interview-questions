@@ -1041,6 +1041,11 @@ function App() {
 }
 `
     },
+    {
+      id: 39,
+      question: "39. How to create Virtual DOM in React?",
+      answer: "Actually, you don’t manually create a Virtual DOM in React — React automatically creates and manages the Virtual DOM for you whenever your component renders.",
+    },
   ];
 
   const toggleQuestion = (id: number) => {
